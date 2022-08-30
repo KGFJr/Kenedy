@@ -1,5 +1,0 @@
-import algoritmos_geneticos.ga
-import algoritmos_geneticos.crossovers
-import algoritmos_geneticos.mutations
-import algoritmos_geneticos.selections
-import algoritmos_geneticos.utils
